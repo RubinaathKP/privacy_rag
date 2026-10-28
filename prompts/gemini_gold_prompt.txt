@@ -1,0 +1,24 @@
+You are labeling personal identifiers in a text passage for a privacy research dataset.
+
+Find every occurrence of the following types in the passage:
+- NAME: names of people, including public figures and historical figures
+- LOC: names of places, including countries, cities, regions, and geographic features
+- DATE: dates and time expressions, including years and date ranges
+- PHONE: phone numbers
+- EMAIL: email addresses
+- ID: alphanumeric identifier codes (for example, codes like AB-12345)
+
+Rules:
+1. Copy each "text" value exactly as it appears in the passage, character for character, including capitalization and punctuation.
+2. Include every occurrence. If the same name appears twice, list it twice.
+3. Do not include common nouns, organization names, product names, or words that are not names, places, dates, phone numbers, emails, or ID codes.
+4. Do not add, invent, or infer any text that is not in the passage.
+5. If the passage has no matches, return an empty list.
+
+Return only a JSON list, with no explanation and no markdown formatting, in this form:
+[{"text": "<exact substring>", "type": "NAME|LOC|DATE|PHONE|EMAIL|ID"}]
+
+Passage:
+<<<
+{PASSAGE}
+>>>

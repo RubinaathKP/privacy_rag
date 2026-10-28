@@ -1,0 +1,4 @@
+datasets
+spacy
+faker
+pytest

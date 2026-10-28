@@ -1,0 +1,75 @@
+{"id": "1000", "items": [{"text": "Matanuska-Susitna Borough", "type": "LOC"}, {"text": "Alaska", "type": "LOC"}, {"text": "UNITED STATES", "type": "LOC"}]}
+{"id": "1001", "items": [{"text": "Matanuska-Susitna Borough", "type": "LOC"}, {"text": "Mat-Su Valley", "type": "LOC"}, {"text": "2010", "type": "DATE"}, {"text": "2000", "type": "DATE"}, {"text": "Mat-Su Valley", "type": "LOC"}, {"text": "1818", "type": "DATE"}]}
+{"id": "1002", "items": [{"text": "Matanuska-Susitna Borough", "type": "LOC"}, {"text": "Alaska", "type": "LOC"}, {"text": "UNITED STATES", "type": "LOC"}]}
+{"id": "1003", "items": [{"text": "U.S.", "type": "LOC"}, {"text": "U.S.", "type": "LOC"}, {"text": "U.S.", "type": "LOC"}, {"text": "U.S.", "type": "LOC"}]}
+{"id": "1004", "items": [{"text": "Mat-Su", "type": "LOC"}, {"text": "Matanuska-Susitna Borough", "type": "LOC"}, {"text": "Mat-Su Valley", "type": "LOC"}, {"text": "2010", "type": "DATE"}, {"text": "2000", "type": "DATE"}, {"text": "Mat-Su Valley", "type": "LOC"}, {"text": "1818", "type": "DATE"}]}
+{"id": "1005", "items": [{"text": "Matanuska-Susitna Borough", "type": "LOC"}, {"text": "Alaska", "type": "LOC"}, {"text": "UNITED STATES", "type": "LOC"}]}
+{"id": "1006", "items": []}
+{"id": "1007", "items": []}
+{"id": "1008", "items": [{"text": "Bernard Madoff", "type": "NAME"}]}
+{"id": "1009", "items": [{"text": "St. Mary's", "type": "LOC"}, {"text": "Clif", "type": "NAME"}, {"text": "Theophilus", "type": "NAME"}, {"text": "Peloponnese", "type": "LOC"}]}
+{"id": "1010", "items": [{"text": "St. Mary's", "type": "LOC"}, {"text": "Sir Christopher Maud Wilder Goodwin", "type": "NAME"}, {"text": "Clif", "type": "NAME"}, {"text": "Morro", "type": "LOC"}, {"text": "Upton Sinclair", "type": "NAME"}]}
+{"id": "1011", "items": [{"text": "Elvis Presley", "type": "NAME"}, {"text": "Elvis Presley", "type": "NAME"}, {"text": "April 21, 1962", "type": "DATE"}]}
+{"id": "1012", "items": [{"text": "Indianapolis", "type": "LOC"}, {"text": "Tony Kann", "type": "NAME"}, {"text": "Sunday", "type": "DATE"}]}
+{"id": "1013", "items": []}
+{"id": "1014", "items": [{"text": "Ronnie Moore", "type": "NAME"}, {"text": "John Thompson", "type": "NAME"}, {"text": "Tuesday", "type": "DATE"}]}
+{"id": "1015", "items": [{"text": "Elvis Presley", "type": "NAME"}, {"text": "Elvis Presley", "type": "NAME"}, {"text": "April 21, 1962", "type": "DATE"}]}
+{"id": "1026", "items": [{"text": "Leonardo da Vinci", "type": "NAME"}, {"text": "1452-1519", "type": "DATE"}, {"text": "Leonardo da Vinci", "type": "NAME"}, {"text": "1452-1519", "type": "DATE"}, {"text": "Leonardo da Vinci", "type": "NAME"}]}
+{"id": "1027", "items": [{"text": "April 15, 1452", "type": "DATE"}, {"text": "Vinci", "type": "LOC"}, {"text": "Italy", "type": "LOC"}, {"text": "May 2, 1519", "type": "DATE"}, {"text": "Amboise", "type": "LOC"}, {"text": "France", "type": "LOC"}, {"text": "Leonardo da Vinci", "type": "NAME"}, {"text": "April 15, 1452", "type": "DATE"}, {"text": "Vinci", "type": "LOC"}, {"text": "Florence", "type": "LOC"}, {"text": "Ser Piero da Vinci", "type": "NAME"}, {"text": "Florence", "type": "LOC"}, {"text": "Caterina", "type": "NAME"}]}
+{"id": "1028", "items": [{"text": "1452-1519", "type": "DATE"}, {"text": "Leonardo da Vinci", "type": "NAME"}, {"text": "1452-1519", "type": "DATE"}, {"text": "Leonardo da Vinci", "type": "NAME"}]}
+{"id": "1029", "items": [{"text": "Leonardo da Vinci", "type": "NAME"}, {"text": "Leonardo da Vinci", "type": "NAME"}, {"text": "Leonardo", "type": "NAME"}, {"text": "Leonardo da Vinci", "type": "NAME"}]}
+{"id": "1030", "items": [{"text": "Leonardo Da Vinci", "type": "NAME"}, {"text": "Andrea del Verrochio", "type": "NAME"}, {"text": "Florence", "type": "LOC"}, {"text": "Leonardo Da Vinci", "type": "NAME"}, {"text": "Andrea del Verrochio", "type": "NAME"}, {"text": "Florence", "type": "LOC"}]}
+{"id": "1031", "items": [{"text": "Piero da Vinci", "type": "NAME"}, {"text": "Caterina", "type": "NAME"}, {"text": "Vinci", "type": "LOC"}, {"text": "Florence", "type": "LOC"}, {"text": "Leonardo", "type": "NAME"}, {"text": "Andrea del Verrocchio", "type": "NAME"}, {"text": "Ludovico il Moro", "type": "NAME"}, {"text": "Milan", "type": "LOC"}, {"text": "Piero da Vinci", "type": "NAME"}, {"text": "Caterina", "type": "NAME"}, {"text": "Vinci", "type": "LOC"}, {"text": "Florence", "type": "LOC"}, {"text": "Leonardo", "type": "NAME"}, {"text": "Andrea del Verrocchio", "type": "NAME"}, {"text": "Ludovico il Moro", "type": "NAME"}, {"text": "Milan", "type": "LOC"}]}
+{"id": "1032", "items": [{"text": "Leonardo da Vinci", "type": "NAME"}, {"text": "April 15, 1452", "type": "DATE"}, {"text": "Vinci", "type": "LOC"}, {"text": "Italy", "type": "LOC"}, {"text": "Leonardo da Vinci", "type": "NAME"}, {"text": "Leonardo da Vinci", "type": "NAME"}, {"text": "April 15, 1452", "type": "DATE"}, {"text": "Vinci", "type": "LOC"}, {"text": "Italy", "type": "LOC"}, {"text": "Leonardo da Vinci", "type": "NAME"}]}
+{"id": "1033", "items": [{"text": "1452", "type": "DATE"}, {"text": "Vinci", "type": "LOC"}, {"text": "Italy", "type": "LOC"}, {"text": "Leonardo", "type": "NAME"}, {"text": "Ser Piero da Vinci", "type": "NAME"}, {"text": "Caterina", "type": "NAME"}, {"text": "Florence", "type": "LOC"}, {"text": "Leonardo da Vinci", "type": "NAME"}]}
+{"id": "1034", "items": [{"text": "Leonardo da Vinci", "type": "NAME"}, {"text": "April 15, 1452", "type": "DATE"}, {"text": "Vinci", "type": "LOC"}, {"text": "Italy", "type": "LOC"}, {"text": "Ser Piero", "type": "NAME"}, {"text": "da Vinci", "type": "NAME"}, {"text": "Verrocchio", "type": "NAME"}, {"text": "Leonardo da Vinci", "type": "NAME"}, {"text": "April 15, 1452", "type": "DATE"}, {"text": "Vinci", "type": "LOC"}, {"text": "Italy", "type": "LOC"}, {"text": "Ser Piero", "type": "NAME"}]}
+{"id": "1035", "items": [{"text": "April 15, 1452", "type": "DATE"}, {"text": "Vinci", "type": "LOC"}, {"text": "Italy", "type": "LOC"}, {"text": "Leonardo da Vinci", "type": "NAME"}, {"text": "Leonardo da Vinci", "type": "NAME"}, {"text": "April 15, 1452", "type": "DATE"}, {"text": "Vinci", "type": "LOC"}, {"text": "Italy", "type": "LOC"}, {"text": "Ser Piero", "type": "NAME"}]}
+{"id": "1036", "items": [{"text": "Feb/Mar 2010", "type": "DATE"}]}
+{"id": "1037", "items": []}
+{"id": "1038", "items": []}
+{"id": "1039", "items": []}
+{"id": "1040", "items": []}
+{"id": "1041", "items": [{"text": "linda07965", "type": "ID"}]}
+{"id": "1042", "items": []}
+{"id": "1043", "items": []}
+{"id": "1044", "items": []}
+{"id": "1045", "items": []}
+{"id": "1046", "items": []}
+{"id": "1047", "items": []}
+{"id": "1048", "items": []}
+{"id": "1049", "items": []}
+{"id": "1050", "items": []}
+{"id": "1051", "items": [{"text": "March 26, 2015", "type": "DATE"}]}
+{"id": "1052", "items": []}
+{"id": "1053", "items": []}
+{"id": "1054", "items": []}
+{"id": "1055", "items": []}
+{"id": "1056", "items": [{"text": "Sanger D. Shafer", "type": "NAME"}, {"text": "Lefty Frizzell", "type": "NAME"}, {"text": "Moe Bandy", "type": "NAME"}, {"text": "June 1975", "type": "DATE"}]}
+{"id": "1057", "items": [{"text": "G Love", "type": "NAME"}, {"text": "Jack", "type": "NAME"}]}
+{"id": "1058", "items": [{"text": "Jack Johnson", "type": "NAME"}, {"text": "Johnson", "type": "NAME"}, {"text": "Garrett Dutton", "type": "NAME"}, {"text": "Johnson", "type": "NAME"}]}
+{"id": "1059", "items": []}
+{"id": "1060", "items": [{"text": "Jack Johnson", "type": "NAME"}, {"text": "Johnson", "type": "NAME"}, {"text": "Garrett Dutton", "type": "NAME"}]}
+{"id": "1076", "items": [{"text": "Candice", "type": "NAME"}, {"text": "Regis", "type": "NAME"}, {"text": "Kelly", "type": "NAME"}, {"text": "Oprah Winfrey", "type": "NAME"}, {"text": "Candice", "type": "NAME"}]}
+{"id": "1078", "items": [{"text": "Candice Bergen", "type": "NAME"}, {"text": "Candice Patricia Bergen", "type": "NAME"}, {"text": "May 9, 1946", "type": "DATE"}, {"text": "1988", "type": "DATE"}, {"text": "Shirley Schmidt", "type": "NAME"}, {"text": "2005", "type": "DATE"}]}
+{"id": "1081", "items": [{"text": "Candice Olson", "type": "NAME"}, {"text": "Candice Olson", "type": "NAME"}, {"text": "candice olson", "type": "NAME"}]}
+{"id": "1082", "items": [{"text": "Candace Cameron Bure", "type": "NAME"}, {"text": "Candace Cameron", "type": "NAME"}, {"text": "southern California", "type": "LOC"}, {"text": "Robert", "type": "NAME"}, {"text": "Barbara Cameron", "type": "NAME"}, {"text": "Kirk Cameron", "type": "NAME"}, {"text": "Mike Seaver", "type": "NAME"}, {"text": "1985", "type": "DATE"}, {"text": "Candace", "type": "NAME"}]}
+{"id": "1084", "items": [{"text": "Candice", "type": "NAME"}, {"text": "2002", "type": "DATE"}, {"text": "Olson", "type": "NAME"}, {"text": "Candice", "type": "NAME"}]}
+{"id": "1085", "items": [{"text": "Candice", "type": "NAME"}, {"text": "Charlie McCarthy", "type": "NAME"}, {"text": "1958", "type": "DATE"}, {"text": "Groucho Marx", "type": "NAME"}, {"text": "Candy Bergen", "type": "NAME"}]}
+{"id": "1107", "items": [{"text": "Hannibal", "type": "LOC"}, {"text": "1839", "type": "DATE"}, {"text": "United States", "type": "LOC"}]}
+{"id": "1116", "items": [{"text": "Collin County", "type": "LOC"}, {"text": "Texas", "type": "LOC"}, {"text": "U.S.", "type": "LOC"}, {"text": "Texas", "type": "LOC"}, {"text": "2000", "type": "DATE"}]}
+{"id": "1117", "items": [{"text": "Between 1970 and 1990", "type": "DATE"}, {"text": "McKinney", "type": "LOC"}, {"text": "1970", "type": "DATE"}, {"text": "1990", "type": "DATE"}, {"text": "McKinney", "type": "LOC"}, {"text": "2000", "type": "DATE"}, {"text": "McKinney", "type": "LOC"}, {"text": "2010", "type": "DATE"}]}
+{"id": "1118", "items": [{"text": "McKinney", "type": "LOC"}, {"text": "Dallas", "type": "LOC"}, {"text": "Richardson", "type": "LOC"}, {"text": "TX", "type": "LOC"}, {"text": "Dallas", "type": "LOC"}, {"text": "TX", "type": "LOC"}, {"text": "Farmers Branch", "type": "LOC"}, {"text": "TX", "type": "LOC"}]}
+{"id": "1119", "items": [{"text": "McKinney", "type": "LOC"}, {"text": "TX", "type": "LOC"}, {"text": "McKinney", "type": "LOC"}, {"text": "Collin County", "type": "LOC"}, {"text": "Texas", "type": "LOC"}, {"text": "2014", "type": "DATE"}, {"text": "US", "type": "LOC"}, {"text": "Texas", "type": "LOC"}, {"text": "McKinney", "type": "LOC"}, {"text": "2010-2014", "type": "DATE"}, {"text": "McKinney", "type": "LOC"}, {"text": "2018", "type": "DATE"}]}
+{"id": "1121", "items": [{"text": "Mckinney", "type": "LOC"}, {"text": "Texas", "type": "LOC"}, {"text": "75069", "type": "ID"}, {"text": "(972) 542-6622", "type": "PHONE"}, {"text": "Mckinney", "type": "LOC"}, {"text": "Texas", "type": "LOC"}, {"text": "75069", "type": "ID"}, {"text": "(214) 726-9030", "type": "PHONE"}, {"text": "McKinney", "type": "LOC"}, {"text": "Texas", "type": "LOC"}]}
+{"id": "1122", "items": [{"text": "Mckinney", "type": "LOC"}, {"text": "Texas", "type": "LOC"}, {"text": "2000", "type": "DATE"}, {"text": "Mckinney", "type": "LOC"}, {"text": "Texas", "type": "LOC"}, {"text": "2000", "type": "DATE"}, {"text": "2010", "type": "DATE"}, {"text": "Mckinney", "type": "LOC"}, {"text": "Texas", "type": "LOC"}, {"text": "2010", "type": "DATE"}, {"text": "Mckinney", "type": "LOC"}, {"text": "Texas", "type": "LOC"}]}
+{"id": "1123", "items": [{"text": "McKinney", "type": "LOC"}, {"text": "Collin County", "type": "LOC"}, {"text": "Texas", "type": "LOC"}, {"text": "Plano", "type": "LOC"}, {"text": "Dallas-Fort Worth", "type": "LOC"}, {"text": "Dallas", "type": "LOC"}]}
+{"id": "1125", "items": [{"text": "February 1, 2018", "type": "DATE"}]}
+{"id": "1137", "items": [{"text": "L.A.", "type": "LOC"}, {"text": "San Francisco", "type": "LOC"}, {"text": "NYC", "type": "LOC"}]}
+{"id": "1139", "items": [{"text": "United States", "type": "LOC"}, {"text": "United States", "type": "LOC"}, {"text": "October 2015", "type": "DATE"}]}
+{"id": "1431", "items": [{"text": "ProSite@oakley.com", "type": "EMAIL"}]}
+{"id": "2564", "items": [{"text": "membername@icloud.com", "type": "EMAIL"}]}
+{"id": "2891", "items": [{"text": "India", "type": "LOC"}, {"text": "indiatvoa@gov.in", "type": "EMAIL"}]}
+{"id": "1381", "items": [{"text": "California", "type": "LOC"}, {"text": "(415) 703-4774", "type": "PHONE"}]}
+{"id": "1666", "items": [{"text": "DC", "type": "LOC"}, {"text": "(202) 442-9648", "type": "PHONE"}]}
+{"id": "2118", "items": [{"text": "(989) 239-8801", "type": "PHONE"}, {"text": "Linwood", "type": "LOC"}, {"text": "Michigan", "type": "LOC"}, {"text": "Linwood", "type": "LOC"}, {"text": "Michigan", "type": "LOC"}, {"text": "Michigan", "type": "LOC"}]}
+{"id": "1589", "items": [{"text": "TAR-1101", "type": "ID"}, {"text": "10-16-03", "type": "DATE"}, {"text": "Texas", "type": "LOC"}, {"text": "2003", "type": "DATE"}]}
